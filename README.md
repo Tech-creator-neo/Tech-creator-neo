@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:you@email.com">Email</a>
+  <a href="mailto:creatortech415@gmail.com">Email</a>
 </p>
 
 <p align="center">
