@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/gifs/pacman-chasing-ghosts-12.gif" width="160" alt="Pac-Man gif" />
+  <a href="mailto:you@email.com">Email</a>
 </p>
 
 <p align="center">
