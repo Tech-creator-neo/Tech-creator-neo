@@ -14,8 +14,7 @@
 </p>
 
 ### What I’m working on
-- Building local RAG pipelines to keep sensitive data local
-- Exploring hybrid retrieval and reranking to improve semantic search precision
+- Building pipelines, apps, and data insights with prediction 
 
 <p align="center">
   <img src="lavender-divider.svg" width="80%" alt="lavender divider"/>
@@ -24,14 +23,12 @@
 ### What I’m learning
 - Deploying NLP apps securely in enterprise environments
 - Evaluation methods for retrieval and compliance checks
-- Structured knowledge extraction (rules, annexes, compliance logic)
 
 <p align="center">
   <img src="lavender-divider.svg" width="80%" alt="lavender divider"/>
 </p>
 
 ### Ask me about
-- Document processing, semantic search, and embeddings
 - End-to-end data science projects (from raw data to user-facing tools)
 
 <p align="center">
