@@ -14,7 +14,7 @@
 </p>
 
 ### What I’m working on
-- Building a local RAG pipeline to keep sensitive data local
+- Building local RAG pipelines to keep sensitive data local
 - Exploring hybrid retrieval and reranking to improve semantic search precision
 
 <p align="center">
